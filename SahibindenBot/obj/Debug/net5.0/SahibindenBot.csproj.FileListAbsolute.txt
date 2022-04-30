@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\SahibindenBot\bin\Debug\net5.0\SahibindenBot.exe
+C:\Users\Lenovo\Desktop\SahibindenBot\bin\Debug\net5.0\SahibindenBot.deps.json
+C:\Users\Lenovo\Desktop\SahibindenBot\bin\Debug\net5.0\SahibindenBot.runtimeconfig.json
+C:\Users\Lenovo\Desktop\SahibindenBot\bin\Debug\net5.0\SahibindenBot.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\SahibindenBot\bin\Debug\net5.0\SahibindenBot.dll
+C:\Users\Lenovo\Desktop\SahibindenBot\bin\Debug\net5.0\ref\SahibindenBot.dll
+C:\Users\Lenovo\Desktop\SahibindenBot\bin\Debug\net5.0\SahibindenBot.pdb
+C:\Users\Lenovo\Desktop\SahibindenBot\obj\Debug\net5.0\SahibindenBot.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SahibindenBot\obj\Debug\net5.0\SahibindenBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\SahibindenBot\obj\Debug\net5.0\SahibindenBot.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\SahibindenBot\obj\Debug\net5.0\SahibindenBot.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SahibindenBot\obj\Debug\net5.0\SahibindenBot.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SahibindenBot\obj\Debug\net5.0\SahibindenBot.dll
+C:\Users\Lenovo\Desktop\SahibindenBot\obj\Debug\net5.0\ref\SahibindenBot.dll
+C:\Users\Lenovo\Desktop\SahibindenBot\obj\Debug\net5.0\SahibindenBot.pdb
+C:\Users\Lenovo\Desktop\SahibindenBot\obj\Debug\net5.0\SahibindenBot.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\SahibindenBot\bin\Debug\net5.0\HtmlAgilityPack.dll

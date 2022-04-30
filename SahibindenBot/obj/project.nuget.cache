@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jf3Ff2s0g1SLVTwTpLTngJQFFfq32XWIZ+uyWM/JFFe8lLfeomgQirjH3ZovtWdN6nSCIrFWLOfgWFpwGhbpXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\SahibindenBot\\SahibindenBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}
